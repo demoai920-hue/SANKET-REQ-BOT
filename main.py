@@ -24,7 +24,7 @@ BOT_TOKEN = os.environ["BOT_TOKEN"]
 STRING_SESSION = os.environ["STRING_SESSION"]
 
 VIDEO_POST_URL = "https://t.me/HARSHUREQASSETS/4"
-APK_POST_URL = "https://t.me/HARSHUREQASSETS/3"
+APK_POST_URL = "https://t.me/HARSHUREQASSETS/11"
 
 # Sent first by the account logged in through STRING_SESSION.
 INTRO_MESSAGE = (
