@@ -52,19 +52,19 @@ APK_BUTTONS = {
     "inline_keyboard": [
         [{
             "text": "DM FOR LOSS RECOVERY",
-            "url": "https://t.me/m/MfujVZgiZDc1",
+            "url": "https://t.me/m/uaSayUcZYjQ9",
             "icon_custom_emoji_id": "5465476962266934316",
             "style": "danger",
         }],
         [{
             "text": "REGISTRATION LINK",
-            "url": "https://www.dmplay20.com/#/register?invitationCode=25855773558",
+            "url": "https://www.dmplay20.com/#/register?invitationCode=213631144785",
             "icon_custom_emoji_id": "5231200819986047254",
             "style": "success",
         }],
         [{
             "text": "VIP GROUP",
-            "url": "https://t.me/+1gF7gwo62VU4NTU1",
+            "url": "https://t.me/+gYuLjkhQ7GRmMjQ1",
             "icon_custom_emoji_id": "5949775417274536507",
             "style": "primary",
         }],
