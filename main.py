@@ -24,7 +24,7 @@ BOT_TOKEN = os.environ["BOT_TOKEN"]
 STRING_SESSION = os.environ["STRING_SESSION"]
 
 VIDEO_POST_URL = "https://t.me/HARSHUREQASSETS/4"
-APK_POST_URL = "https://t.me/HARSHUREQASSETS/11"
+APK_POST_URL = "https://t.me/HARSHUREQASSETS/13"
 
 # Sent first by the account logged in through STRING_SESSION.
 INTRO_MESSAGE = (
@@ -52,19 +52,19 @@ APK_BUTTONS = {
     "inline_keyboard": [
         [{
             "text": "DM FOR LOSS RECOVERY",
-            "url": "https://t.me/m/uaSayUcZYjQ9",
+            "url": "https://t.me/m/V35Ci6DOYjY1",
             "icon_custom_emoji_id": "5465476962266934316",
             "style": "danger",
         }],
         [{
             "text": "REGISTRATION LINK",
-            "url": "https://www.dmplay20.com/#/register?invitationCode=213631144785",
+            "url": "https://www.dmplay20.com/#/register?invitationCode=841531119445",
             "icon_custom_emoji_id": "5231200819986047254",
             "style": "success",
         }],
         [{
             "text": "VIP GROUP",
-            "url": "https://t.me/+gYuLjkhQ7GRmMjQ1",
+            "url": "https://t.me/+5z08S4z69MZmYTBl",
             "icon_custom_emoji_id": "5949775417274536507",
             "style": "primary",
         }],
